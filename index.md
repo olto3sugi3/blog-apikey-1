@@ -94,5 +94,5 @@ index.html
 </html>
 ```
 
-
-### [Please see this on github pages](https://olto3sugi3.github.io/blog-apikey-1/)
+## Other articles
+### [WEB System Infrastructure Guide for Beginners](https://www.olto3-sugi3.tk/index.html)
