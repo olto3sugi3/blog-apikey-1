@@ -96,4 +96,4 @@ index.html
 
   
 ## Plese visit our website.
-### [WEB System Infrastructure Guide for Beginners](https://www.olto3-sugi3.tk/index.html)
+### [WEB System Infrastructure Guide for Beginners](https://olto3-sugi3.tk/index.html)
