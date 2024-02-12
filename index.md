@@ -96,5 +96,5 @@ index.html
 
   
 ## Plese visit our website.
-### [WEB System Infrastructure Guide for Beginners](https://olto3-sugi3.tk/index.html)
-### [Route Sales Manager](https://www.olto3-sugi3.tk/route-sales-manager/index.html)
+### [WEB System Infrastructure Guide for Beginners](https://olto3-sugi3.f5.si/index.html)
+### [Route Sales Manager](https://www.olto3-sugi3.f5.si/route-sales-manager/index.html)
