@@ -97,4 +97,4 @@ index.html
   
 ## Plese visit our website.
 ### [WEB System Infrastructure Guide for Beginners](https://olto3-sugi3.tk/index.html)
-### [Easy Web Archiver](https://olto3-sugi3.tk/sticky-note/index.html))
+### [Easy Web Archiver](https://olto3-sugi3.tk/sticky-note/index.html)
